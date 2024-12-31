@@ -1,0 +1,1 @@
+# scoop-foobar2000
